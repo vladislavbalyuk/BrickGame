@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brick game</string>
+    <string name="game_over">Game over</string>
+</resources>
